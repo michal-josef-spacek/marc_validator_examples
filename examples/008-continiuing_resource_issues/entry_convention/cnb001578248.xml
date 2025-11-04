@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>02533nas a2200673 a 4500</leader>
+  <controlfield tag="001">nkc20051578248</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20220630093410.0</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">050810d19932009xr ar         0   bacze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb001578248</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">BOA001</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xo---</subfield>
+    <subfield code="a">e-xr---</subfield>
+    <subfield code="b">e-xr-jm</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="045" ind1=" " ind2=" ">
+    <subfield code="a">x9y0</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">792</subfield>
+    <subfield code="x">Divadlo. Divadelní představení</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">792.079</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">792</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(437.3)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(437.6)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(036)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(083.97)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Trialog (festival)</subfield>
+    <subfield code="7">kn20050901015</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Trialog ...</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">V Brně :</subfield>
+    <subfield code="b">Národní divadlo,</subfield>
+    <subfield code="c">[1993?-2009]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">^^^sv. ;</subfield>
+    <subfield code="c">21-10 x 21 cm</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">1x ročně</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1993-2009</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Název z obálky</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Součástí názvu je označení běžného roku</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Název r. 2000: Trialog 2000 s epilogem</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Na obálce nad názvem: Národní divadlo v Brně</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">R. 2008 obsahuje 1 l. obr. příl.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Některé sv. mají ISBN</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">Popsáno podle: r. 2005</subfield>
+    <subfield code="5">CZ-PrNK</subfield>
+  </datafield>
+  <datafield tag="611" ind1="2" ind2="7">
+    <subfield code="a">Trialog (festival)</subfield>
+    <subfield code="7">kn20050901015</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">divadelní festivaly a přehlídky</subfield>
+    <subfield code="7">ph114329</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">divadlo</subfield>
+    <subfield code="7">ph119513</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">divadlo</subfield>
+    <subfield code="7">ph119513</subfield>
+    <subfield code="z">Slovensko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">theater festivals</subfield>
+    <subfield code="z">Czechia</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">theater</subfield>
+    <subfield code="z">Czechia</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">theater</subfield>
+    <subfield code="z">Slovakia</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="7">
+    <subfield code="a">Brno (Česko)</subfield>
+    <subfield code="7">ge134084</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="9">
+    <subfield code="a">Brno (Czechia)</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">informační publikace</subfield>
+    <subfield code="7">fd132454</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">programy</subfield>
+    <subfield code="7">fd133135</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">information publications</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">programs</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Národní divadlo Brno</subfield>
+    <subfield code="7">kn20010709309</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-238-4381-8</subfield>
+    <subfield code="q">(1999 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-238-7122-6</subfield>
+    <subfield code="q">(2000 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-238-8813-7</subfield>
+    <subfield code="q">(2002 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-239-0999-1</subfield>
+    <subfield code="q">(2003 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-239-5345-1</subfield>
+    <subfield code="q">(2005 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-239-7028-3</subfield>
+    <subfield code="q">(2006 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-254-2588-6</subfield>
+    <subfield code="q">(2008 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-254-7627-7</subfield>
+    <subfield code="q">(2009 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="s">1999, 2000, 2002, 2003, 2005-2006, 2008-2009</subfield>
+  </datafield>
+  <datafield tag="928" ind1="9" ind2=" ">
+    <subfield code="a">Národní divadlo v Brně</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">001578248</subfield>
+  </datafield>
+</record>
+
+</collection>

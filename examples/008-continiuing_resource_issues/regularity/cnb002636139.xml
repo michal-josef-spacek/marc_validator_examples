@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>00690nas a2200205 a 4500</leader>
+  <controlfield tag="001">cps20142636139</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20141031154852.0</controlfield>
+  <controlfield tag="008">110811d19261931xr bq p       |   b0ger  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb002636139</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">BOA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">ABA001</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">631</subfield>
+    <subfield code="x">Zemědělství. Pedologie. Agrotechnika. Agroekologie</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">24</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">050</subfield>
+    <subfield code="2">MRF-sel</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Stickstoff :</subfield>
+    <subfield code="b">Fachblatt für Pflanzenernährung und Düngung</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Ostrau :</subfield>
+    <subfield code="b">Stickstoffenverkaufs-Komitee des Ostrau-Karwiner Steinkohlen-Revieres,</subfield>
+    <subfield code="c">1926-1931</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">5 sv.</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">4x ročně</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Jahrg. 1 (1926) - Jahrg. 5 (1931)</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">52 D 504</subfield>
+    <subfield code="r">1926-31</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">002636139</subfield>
+  </datafield>
+</record>
+
+</collection>
