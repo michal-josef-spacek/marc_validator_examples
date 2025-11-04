@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>02185nas a2200457 a 4500</leader>
+  <controlfield tag="001">cps19950356571</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20131007142341.0</controlfield>
+  <controlfield tag="008">110805d19611991xr  x x       |   b0cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000356571</subfield>
+    <subfield code="z">cnb000004359</subfield>
+    <subfield code="z">cnb000039873</subfield>
+    <subfield code="z">cnb000103603</subfield>
+    <subfield code="z">cnb000397507</subfield>
+    <subfield code="z">cnb000412492</subfield>
+    <subfield code="z">cnb000422620</subfield>
+    <subfield code="z">cnb000424287</subfield>
+    <subfield code="z">cnb000429933</subfield>
+    <subfield code="z">cnb000429934</subfield>
+    <subfield code="z">cnb000437379</subfield>
+    <subfield code="z">cnb000441137</subfield>
+    <subfield code="z">cnb000441542</subfield>
+    <subfield code="z">cnb000443952</subfield>
+    <subfield code="z">cnb000459049</subfield>
+    <subfield code="z">cnb000465751</subfield>
+    <subfield code="z">cnb000488487</subfield>
+    <subfield code="z">cnb000495589</subfield>
+    <subfield code="z">cnb000016043</subfield>
+    <subfield code="z">cnb000052103</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">0551-8407</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">ABA001</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">cze</subfield>
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xr---</subfield>
+    <subfield code="b">e-xr-pg</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">549</subfield>
+    <subfield code="x">Mineralogie</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">7</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">37</subfield>
+    <subfield code="2">MRF-sel</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">54</subfield>
+    <subfield code="2">MRF-sel</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">050</subfield>
+    <subfield code="2">MRF-sel</subfield>
+  </datafield>
+  <datafield tag="210" ind1="0" ind2=" ">
+    <subfield code="a">Sb. Vys. šk. chem.-technol. Praze, Mineral.</subfield>
+  </datafield>
+  <datafield tag="222" ind1=" " ind2="0">
+    <subfield code="a">Sborník Vysoké školy chemicko-technologické v Praze. Mineralogie</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Sborník Vysoké školy chemicko-technologické v Praze.</subfield>
+    <subfield code="n">G,</subfield>
+    <subfield code="p">Mineralogie =</subfield>
+    <subfield code="b">Sbornik Pražskogo chimiko-technologičeskogo instituta. Mineralogija = Scientific Papers of the Prague Institute of Chemical Technology. Mineralogy</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Sborník VŠCHT v Praze. Mineralogie</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Mineralogie</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="1">
+    <subfield code="a">Sbornik Pražskogo chimiko-technologičeskogo instituta. Mineralogija</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="1">
+    <subfield code="a">Scientific Papers of the Prague Institute of Chemical Technology. Mineralogy</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">SPN,</subfield>
+    <subfield code="c">1961-1991</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">19 sv.</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Vychází nepravidelně</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Sv. 5 (1961) - sv. 23 (1988)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Vydává: Vysoká škola chemickotechnologická</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Souběž. rus. a angl. název a obsah</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Označení řady až od sv. 8 (1966)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" ">
+    <subfield code="a">mineralogie</subfield>
+    <subfield code="a">vysokoškolské sborníky</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Vysoká škola chemicko-technologická v Praze</subfield>
+    <subfield code="7">kn20010710384</subfield>
+  </datafield>
+  <datafield tag="780" ind1="0" ind2="7">
+    <subfield code="t">Sborník Vysoké školy chemickotechnologické v Praze. Oddíl fakult anorganické a organické technologie</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-7080-044-5</subfield>
+    <subfield code="q">(sv.23)</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">54 E 17973</subfield>
+    <subfield code="b">Nd 374</subfield>
+    <subfield code="s">5-23</subfield>
+  </datafield>
+  <datafield tag="968" ind1=" " ind2=" ">
+    <subfield code="a">9c</subfield>
+  </datafield>
+  <datafield tag="969" ind1=" " ind2=" ">
+    <subfield code="a">b1</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="n">Vysoká škola chemickotechnologická</subfield>
+    <subfield code="a">Suchbátarova, 160 00 Praha 6</subfield>
+    <subfield code="e">02/332 30 72</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000356571</subfield>
+  </datafield>
+</record>
+
+</collection>

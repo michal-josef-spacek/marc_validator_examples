@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>00749ncm a2200241 a 4500</leader>
+  <controlfield tag="001">hud09100437</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20250507111521.0</controlfield>
+  <controlfield tag="007">qu</controlfield>
+  <controlfield tag="008">081114s1933    xr ||| g       nn   zxx  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb001926336</subfield>
+  </datafield>
+  <datafield tag="028" ind1="2" ind2="1">
+    <subfield code="a">K.J.B. 1280</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">786</subfield>
+    <subfield code="x">Hudba pro klávesové nástroje</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Žemla, Josef,</subfield>
+    <subfield code="d">1884-1954</subfield>
+    <subfield code="7">jk01153103</subfield>
+    <subfield code="4">cmp</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Polka jede</subfield>
+    <subfield code="h">[hudebnina] :</subfield>
+    <subfield code="b">opus 16 : Čtyři polky pro piano na 2 ruce (1. C-dur 2. A-dur 3. B-dur 4. G-dur) /</subfield>
+    <subfield code="c">Josef Žemla</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">K.J. Barvitius,</subfield>
+    <subfield code="c">(1933)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">11 s. ;</subfield>
+    <subfield code="c">4°</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Barvitiova edice ;</subfield>
+    <subfield code="v">Čís. 1490</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Barvitiova edice</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+  </datafield>
+  <datafield tag="926" ind1=" " ind2=" ">
+    <subfield code="b">op. 16</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">001926336</subfield>
+  </datafield>
+</record>
+
+</collection>

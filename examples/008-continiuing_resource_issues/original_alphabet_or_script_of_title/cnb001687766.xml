@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01542nai a2200457 a 4500</leader>
+  <controlfield tag="001">web20061687766</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20100804133929.0</controlfield>
+  <controlfield tag="007">cr cn </controlfield>
+  <controlfield tag="008">060831c19989999xr  x w s     0  b2 cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb001687766</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1213-7235</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">339</subfield>
+    <subfield code="x">Obchod</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="9">
+    <subfield code="a">380</subfield>
+    <subfield code="x">Commerce, communication, transportation</subfield>
+    <subfield code="2">Conspectus</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">34</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">336</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">331</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(0.034.2)004.738.12</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="222" ind1=" " ind2="0">
+    <subfield code="a">Business.center.cz</subfield>
+    <subfield code="b">(Praha)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Business.center.cz</subfield>
+    <subfield code="h">[elektronický zdroj]</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Havit,</subfield>
+    <subfield code="c">1998-</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Častá aktualizace</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Název z titulní obrazovky (verze z 31.8.2006)</subfield>
+  </datafield>
+  <datafield tag="516" ind1=" " ind2=" ">
+    <subfield code="a">Webovská prezentace</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Poradenství v oblasti obchodu, financí, obchodního a pracovního práva, daní aj.</subfield>
+  </datafield>
+  <datafield tag="538" ind1=" " ind2=" ">
+    <subfield code="a">Způsob přístupu: World Wide Web</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">zákony</subfield>
+    <subfield code="7">ph127728</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">finance</subfield>
+    <subfield code="7">ph114548</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">práce</subfield>
+    <subfield code="7">ph115908</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">laws</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">finance</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">labor</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">webové dokumenty</subfield>
+    <subfield code="7">fd186892</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">web documents</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Havit (firma)</subfield>
+    <subfield code="7">kn20060831016</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://business.center.cz/</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="4">N</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://wayback.webarchiv.cz/wayback/business.center.cz/</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="z">archivní verze stránek</subfield>
+    <subfield code="4">N</subfield>
+  </datafield>
+  <datafield tag="929" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+  </datafield>
+  <datafield tag="930" ind1=" " ind2=" ">
+    <subfield code="a">cop.1998 - 2006 HAVIT, s.r.o.</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">001687766</subfield>
+  </datafield>
+</record>
+
+</collection>

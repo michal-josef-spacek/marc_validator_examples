@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>00694ncm a2200253 a 4500</leader>
+  <controlfield tag="001">hud08500171</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20100506135902.0</controlfield>
+  <controlfield tag="007">qu</controlfield>
+  <controlfield tag="008">081130q18  19  xr     g       ||        </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb001922679</subfield>
+  </datafield>
+  <datafield tag="028" ind1="2" ind2="1">
+    <subfield code="a">113</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">78</subfield>
+    <subfield code="x">Hudba</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">9</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Vinař, Čeněk,</subfield>
+    <subfield code="d">1835-1872</subfield>
+    <subfield code="7">jk01142404</subfield>
+    <subfield code="4">cmp</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Potpourri z českých národních písní "Slovan"</subfield>
+    <subfield code="h">[hudebnina] /</subfield>
+    <subfield code="c">od Vinaře</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">E. Wetzler,</subfield>
+    <subfield code="c">s. a.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">13 s.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Potpouri a ouverturi</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">[Klavír 2 ruč.]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Kn. 0293 Kčs 7,</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Potpouri a ouverturi</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">001922679</subfield>
+  </datafield>
+</record>
+
+</collection>

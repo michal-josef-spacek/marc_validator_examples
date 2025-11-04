@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01693cai a2200421 a 4500</leader>
+  <controlfield tag="001">nkc20050702740</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20230914092205.0</controlfield>
+  <controlfield tag="007">td</controlfield>
+  <controlfield tag="008">990720d19992004xr qr   0     0   b2cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000702740</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">80-86229-04-1</subfield>
+    <subfield code="q">(pořadač)</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">ABA001</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xr---</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">347</subfield>
+    <subfield code="x">Soukromé právo</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">16</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">349.444</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">347.453</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">347.214.2</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(035)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Plecitý, Vladimír,</subfield>
+    <subfield code="d">1954-</subfield>
+    <subfield code="7">ola2002111247</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Správa a pronajímání bytových a nebytových prostor :</subfield>
+    <subfield code="b">praktická příručka pro pronajímatele, správce a bytová družstva /</subfield>
+    <subfield code="c">Vladimír Plecitý a kolektiv autorů</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Dashöfer,</subfield>
+    <subfield code="c">1999-2004</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">^^^sv. ;</subfield>
+    <subfield code="c">32 cm</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Aktualizováno 4x ročně</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Základní dílo obsahuje 3 diskety + manuál</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Aktualiz. na volných l., obsahují CD a licenci</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">Popsáno podle: základní dílo vyd. 1999 včetně 24. aktualiz., stav říjen 2004</subfield>
+    <subfield code="5">CZ-PrNK</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">byty</subfield>
+    <subfield code="7">ph114219</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">nebytové prostory</subfield>
+    <subfield code="7">ph123186</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">nájem bytů</subfield>
+    <subfield code="7">ph123403</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">nájem nebytových prostor</subfield>
+    <subfield code="7">ph123404</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">správa nemovitostí</subfield>
+    <subfield code="7">ph125975</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">Landlord and tenant</subfield>
+    <subfield code="z">Czechia</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">Rental housing</subfield>
+    <subfield code="x">Law and legislation</subfield>
+    <subfield code="z">Czechia</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">Leases</subfield>
+    <subfield code="z">Czechia</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">příručky</subfield>
+    <subfield code="7">fd133209</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="s">základní dílo včetně 2 aktualiz., 3.-24. aktualiz.</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000702740</subfield>
+  </datafield>
+</record>
+
+</collection>

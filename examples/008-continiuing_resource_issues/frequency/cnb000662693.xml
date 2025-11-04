@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01369nai a2200337 a 4500</leader>
+  <controlfield tag="001">cpk19990662693</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20230824124328.0</controlfield>
+  <controlfield tag="007">td</controlfield>
+  <controlfield tag="008">950106d19941997xr l|  e      0   b2cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000662693</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">80-901859-0-8</subfield>
+    <subfield code="q">(pořadač)</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">005.91:82-6</subfield>
+    <subfield code="x">Úřední korespondence</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">339.1</subfield>
+    <subfield code="2">undef</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">651</subfield>
+    <subfield code="2">undef</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Šedý, Rajmund</subfield>
+    <subfield code="7">jn20010309249</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Úspěšné vzorové dopisy :</subfield>
+    <subfield code="b">korespondence a písemnosti pro všechny obchodní a soukromé účely /</subfield>
+    <subfield code="c">Raimund Šedý</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Korespondence a písemnosti pro všechny obchodní a soukromé účely</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Dashöfer,</subfield>
+    <subfield code="c">1994-1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 sv. (na volných listech) :</subfield>
+    <subfield code="b">ukázky formulářů ;</subfield>
+    <subfield code="c">32 cm</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Aktualizováno průběžně</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" ">
+    <subfield code="a">Základní soubor. 1994. [880] s. -- Aktualizace 4, 5, 7, 8, 9, 10 (únor 1997)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">hospodářské písemnosti</subfield>
+    <subfield code="7">ph114704</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">soukromé písemnosti</subfield>
+    <subfield code="7">ph116222</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">vzorové dopisy</subfield>
+    <subfield code="7">ph139316</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">obchodní korespondence</subfield>
+    <subfield code="7">ph115515</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">příručky</subfield>
+    <subfield code="7">fd133209</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="s">Zákl. soubor, aktualizace 4-5, 7-10, doplňky</subfield>
+  </datafield>
+  <datafield tag="964" ind1=" " ind2=" ">
+    <subfield code="a">písemnosti obchodní - dopisy vzorové - příručky</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000662693</subfield>
+  </datafield>
+</record>
+
+</collection>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01123nas a22002651  4500</leader>
+  <controlfield tag="001">nos190116860</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20250227112315.0</controlfield>
+  <controlfield tag="008">000124d18991913xr a| p  0    |   b0cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000573474</subfield>
+    <subfield code="z">cnb000591596</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="c">PNA001</subfield>
+    <subfield code="d">ABA001</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Chmelařův hospodářský kalendář pro Českoslovanské rolnictvo na rok ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2=" ">
+    <subfield code="i">Od roč. V. na rok 1903:</subfield>
+    <subfield code="a">Eckertův (Chmelařův) Hospodářský kalendář pro rolnictvo českoslovanské na rok ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2="3">
+    <subfield code="a">Hospodářský kalendář pro Českoslovanské rolnictvo na rok ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2="3">
+    <subfield code="a">Chmelařův Hospodářský kalendář pro rolnictvo českoslovanské na rok ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2="4">
+    <subfield code="a">Eckertův hospodářský kalendář pro českoslovanské rolnictvo</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">V Chrudimi :</subfield>
+    <subfield code="b">nákladem Hospodářského listu,</subfield>
+    <subfield code="c">1899-1913</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">^^^sv. :</subfield>
+    <subfield code="b">il. ;</subfield>
+    <subfield code="c">8°</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">1x ročně</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">Roč. I. (1899) - roč. XV. (1913)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">V názvu označení kalendářního roku</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">S četn. vyobr.</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">55 B 38</subfield>
+    <subfield code="s">1902-1910, 1913</subfield>
+  </datafield>
+  <datafield tag="928" ind1="9" ind2=" ">
+    <subfield code="a">Hospodářský list</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000573474</subfield>
+  </datafield>
+</record>
+
+</collection>

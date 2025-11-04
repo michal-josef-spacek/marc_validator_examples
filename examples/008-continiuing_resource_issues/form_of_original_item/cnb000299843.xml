@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01891nas a2200481 a 4500</leader>
+  <controlfield tag="001">cpk19980299843</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20210105210454.0</controlfield>
+  <controlfield tag="008">980918d19961998xr ar  j b    |    0cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000299843</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">1211-1341</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xr---</subfield>
+  </datafield>
+  <datafield tag="045" ind1=" " ind2=" ">
+    <subfield code="a">x9x9</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">76</subfield>
+    <subfield code="x">Grafické umění. Grafika</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">21</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">01</subfield>
+    <subfield code="x">Bibliografie. Katalogy</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">12</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">015</subfield>
+    <subfield code="2">undef</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">08</subfield>
+    <subfield code="2">undef</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">76</subfield>
+    <subfield code="2">undef</subfield>
+  </datafield>
+  <datafield tag="222" ind1=" " ind2="0">
+    <subfield code="a">Česká národní bibliografie. Grafika ...</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Česká národní bibliografie.</subfield>
+    <subfield code="p">Grafika ... = Czech National Bibliography. Graphics ... = Tschechische Nationalbibliographie. Graphik ... = Češskaja nacional'naja bibliografija. Grafika ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Grafika ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Graphics ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Graphik ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="1">
+    <subfield code="a">Czech national bibliography.</subfield>
+    <subfield code="p">Graphics ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="1">
+    <subfield code="a">Tschechische Nationalbibliographie.</subfield>
+    <subfield code="p">Graphik ...</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="1">
+    <subfield code="a">Češskaja nacional'naja bibliografija.</subfield>
+    <subfield code="p">Grafika ...</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Národní knihovna ČR,</subfield>
+    <subfield code="c">1996-1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">^^^sv. ;</subfield>
+    <subfield code="c">21 cm</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Ročenka</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Roč. 1995 z technických důvodů vydán ve 2 sv.</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">Popsáno podle r. 1994</subfield>
+    <subfield code="5">CZ-PrNK</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">česká národní bibliografie</subfield>
+    <subfield code="7">ph207981</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">grafika</subfield>
+    <subfield code="7">ph120598</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">bibliografie</subfield>
+    <subfield code="7">fd131898</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">soupisy</subfield>
+    <subfield code="7">fd133560</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Celbová, Ludmila,</subfield>
+    <subfield code="d">1947-</subfield>
+    <subfield code="7">xx0015127</subfield>
+    <subfield code="4">org</subfield>
+  </datafield>
+  <datafield tag="780" ind1="0" ind2="1">
+    <subfield code="t">Národní bibliografie České republiky. Grafika a mapy</subfield>
+    <subfield code="x">1210-8936</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">http://krameriusndk.nkp.cz/search/handle/uuid:63656270-7c30-11e3-a80c-005056825209</subfield>
+    <subfield code="y">Digitalizovaný dokument</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-7050-241-X</subfield>
+    <subfield code="q">(1994 ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-7050-303-3</subfield>
+    <subfield code="q">(1995, 1-2 ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="s">1994-1995</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000299843</subfield>
+  </datafield>
+</record>
+
+</collection>

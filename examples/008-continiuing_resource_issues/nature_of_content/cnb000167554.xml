@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01942nas a2200517 a 4500</leader>
+  <controlfield tag="001">cpk19960167554</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20210331120532.0</controlfield>
+  <controlfield tag="008">961007d19601994xr ar     |   0   b0cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000167554</subfield>
+  </datafield>
+  <datafield tag="022" ind1=" " ind2=" ">
+    <subfield code="a">0558-8154</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)9961950</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">66</subfield>
+    <subfield code="x">Chemický průmysl. Chemická technologie</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">19</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">622.33</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">661.715</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">66</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">622.323</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">662.613.4</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(062.534)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="222" ind1=" " ind2="0">
+    <subfield code="a">Sborník prací z vyzkumu chemického vyuzití uhlí, dehtu a ropy</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Sborník prací z výzkumu chemického využití uhlí, dehtu a ropy</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Záluží v Krušných horách :</subfield>
+    <subfield code="b">Chemické závody československo-sovětského přátelství,</subfield>
+    <subfield code="c">[1960]-1994</subfield>
+  </datafield>
+  <datafield tag="260" ind1="2" ind2=" ">
+    <subfield code="3">1972-1991</subfield>
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">SNTL</subfield>
+  </datafield>
+  <datafield tag="260" ind1="3" ind2=" ">
+    <subfield code="3">1992-1994</subfield>
+    <subfield code="a">Litvínov :</subfield>
+    <subfield code="b">Chemopetrol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">20 sv. ;</subfield>
+    <subfield code="c">21-22 cm</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">Ročenka</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">sv. 1-sv. 25</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Popsáno podle: sv. 24</subfield>
+  </datafield>
+  <datafield tag="550" ind1=" " ind2=" ">
+    <subfield code="a">Do sv. 6 vydával Výzkumný ústav pro chemické využití uhlí</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">ropa</subfield>
+    <subfield code="7">ph116059</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">uhlovodíky</subfield>
+    <subfield code="7">ph116523</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">chemické inženýrství</subfield>
+    <subfield code="7">ph114234</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">uhlí</subfield>
+    <subfield code="7">ph116524</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">dehet</subfield>
+    <subfield code="7">ph203171</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">sborníky konferencí</subfield>
+    <subfield code="7">fd133333</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">http://krameriusndk.nkp.cz/search/handle/uuid:55d2a230-63a4-11e2-9d9f-005056827e52</subfield>
+    <subfield code="y">Digitalizovaný dokument</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-900018-0-7</subfield>
+    <subfield code="q">(21 ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-900018-1-5</subfield>
+    <subfield code="q">(22 ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-900018-3-1</subfield>
+    <subfield code="q">(23 ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-900021-6-1</subfield>
+    <subfield code="q">(24 ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-900041-2-1</subfield>
+    <subfield code="q">(25 ;</subfield>
+    <subfield code="q">brož.)</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="s">1-2, 5-17, 20-24</subfield>
+  </datafield>
+  <datafield tag="928" ind1="9" ind2=" ">
+    <subfield code="a">Státní nakladatelství technické literatury</subfield>
+  </datafield>
+  <datafield tag="928" ind1="9" ind2=" ">
+    <subfield code="a">Výzkumný ústav pro chemické využití uhlí</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000167554</subfield>
+  </datafield>
+</record>
+
+</collection>

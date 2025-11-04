@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01117nas a2200301 a 4500</leader>
+  <controlfield tag="001">cps19950356228</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20140709131903.0</controlfield>
+  <controlfield tag="008">910910d199 199 xr wr n      u|    0cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000356228</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">ABA001</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xr---</subfield>
+    <subfield code="b">e-xr-pg</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">329</subfield>
+    <subfield code="x">Politické strany a hnutí</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">15</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">050</subfield>
+    <subfield code="2">MRF-sel</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">329</subfield>
+    <subfield code="2">MRF-sel</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Desítka :</subfield>
+    <subfield code="b">Informační zpravodaj Občanského fóra Prahy 10</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Koordinační a informační středisko Občanského fóra Prahy 10,</subfield>
+    <subfield code="c">[199-?]-[199-?]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">^^^sv.</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">1x týdně</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">[Č. 1 (199?)]-[Č. ? (199?)]</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="7">
+    <subfield code="a">Občanské fórum (hnutí).</subfield>
+    <subfield code="b">Koordinační centrum (Praha, Česko)</subfield>
+    <subfield code="7">ko2004264220</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" ">
+    <subfield code="a">zpravodajství</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Občanské fórum (hnutí).</subfield>
+    <subfield code="b">Koordinační centrum (Praha, Česko)</subfield>
+    <subfield code="7">ko2004264220</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="r">1994</subfield>
+    <subfield code="t">p</subfield>
+  </datafield>
+  <datafield tag="968" ind1=" " ind2=" ">
+    <subfield code="a">12c</subfield>
+  </datafield>
+  <datafield tag="969" ind1=" " ind2=" ">
+    <subfield code="a">b2</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="n">Koordinační a informační středisko Občanského fóra Prahy 10</subfield>
+    <subfield code="a">Konopišťská 11, 100 00 Praha 10</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000356228</subfield>
+  </datafield>
+</record>
+
+</collection>
