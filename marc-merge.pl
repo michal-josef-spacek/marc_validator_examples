@@ -37,7 +37,7 @@ foreach my $xml_file (@xml_files) {
 }
 
 # Compose to output.
-my $marc_output = MARC::File::XML->out('output-'.$VERSION.'.xml');
+my $marc_output = MARC::File::XML->out('marc-validator-examples-'.$VERSION.'.xml');
 foreach my $field_001 (sort keys %{$sorted_marc_hr}) {
 	$marc_output->write($sorted_marc_hr->{$field_001});
 }

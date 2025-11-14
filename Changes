@@ -1,6 +1,7 @@
 0.02
  - Add duplicites for 035a field.
  - Add version to output XML file.
+ - Rename output file to marc-validator-examples-...
 
 0.01 2025-11-04T10:15:01+01:00
  - First version.
