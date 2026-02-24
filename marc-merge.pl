@@ -8,7 +8,7 @@ use Error::Pure qw(err);
 use File::Find::Rule;
 use MARC::File::XML (BinaryEncoding => 'utf8', RecordFormat => 'MARC21');
 
-our $VERSION = 0.04;
+our $VERSION = 0.05;
 
 my @xml_files = File::Find::Rule->file->in('examples');
 
