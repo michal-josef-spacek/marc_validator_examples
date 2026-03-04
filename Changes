@@ -1,5 +1,6 @@
 0.05
  - Add issue with missing comics in 008 field.
+ - Add issue with missing index in 008 field.
  - Add issues with missing illustrations.
 
 0.04 2026-02-24T19:16:31+01:00
