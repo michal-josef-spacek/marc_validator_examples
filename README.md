@@ -51,6 +51,7 @@ contains two records with a non-unique `035a` value.
 - `080a-alphabetical/` – incorrect alphabetical order in `080a`.
 - `080a-apostrophe/` – invalid apostrophe in `080a`.
 - `080a-dot/` – invalid dot in `080a`.
+- `080a-extra_closing_parenthesis/` - extra closing parenthese in `080a`.
 - `080a-extra_opening_parenthesis/` - extra opening parenthese in `080a`.
 - `080a-missing_closing_quotation_mark/` – missing closing quotation mark
   in `080a`.

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>01672nam a22003371  4500</leader>
+  <controlfield tag="001">bk196800684</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20110916083633.0</controlfield>
+  <controlfield tag="008">970519s1967    xr                  cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000422974</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)42144544</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="c">PNA001</subfield>
+    <subfield code="d">ABA001</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">51(076))</subfield>
+    <subfield code="2">undef</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Dobrovolný, Bohumil,</subfield>
+    <subfield code="d">1906-1990</subfield>
+    <subfield code="7">jk01022456</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Nové matematické rekreace :</subfield>
+    <subfield code="b">zajímavé problémy a jejich řešení /</subfield>
+    <subfield code="c">Bohumil Dobrovolný</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. vyd.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Práce,</subfield>
+    <subfield code="c">1967</subfield>
+    <subfield code="f">(Mír 1)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">157, [2] s. :</subfield>
+    <subfield code="b">il. ;</subfield>
+    <subfield code="c">8°</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Polytechnická knižnice. Ř. 1, Technický výběr do kapsy ;</subfield>
+    <subfield code="v">sv. 103</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Obálka: Miroslav Houska</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">8000 výt.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Spoluvyd. SNTL, Socialist. akademie a ČSVTS</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Obsahuje bibliografii</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Jmenný a věcný rejstřík</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Elementární i velmi obtížné úlohy ze všech oborů matematiky nejsou tu řešeny jen s odvoláním na vzorce, ale jsou udány cesty, z nichž jsou patrny postupy tvořivého myšlení. Ve výběru úloh má významné postavení teorie pravděpodobnosti, teorie her a matematická logika. Ostatní úlohy spadají do geometrie, zvláště topologie a do teorie čísel a rovnic. Ke konci jsou uvedeny nerozřešené problémy.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Polytechnická knižnice.</subfield>
+    <subfield code="p">Technický výběr do kapsy</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">https://ndk.cz/uuid/uuid:ed1ba140-2f69-11e4-8f64-005056827e52</subfield>
+    <subfield code="y">Digitalizovaný dokument</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+  </datafield>
+  <datafield tag="964" ind1=" " ind2=" ">
+    <subfield code="a">Matematika - úlohy zajímavé - sbírky</subfield>
+  </datafield>
+  <datafield tag="964" ind1=" " ind2=" ">
+    <subfield code="a">Hry matematické - úlohy řešené - sbírky</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000422974</subfield>
+  </datafield>
+</record>
+
+</collection>
