@@ -1,5 +1,6 @@
 0.08
  - Add issues with extra dash character in 080a field.
+ - Add issues with extra dot character in 080a field.
 
 0.07 2026-10-22T10:45:19+02:00
  - Add issues with bad extra closing parenthesis in 080a field.
