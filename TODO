@@ -2,8 +2,9 @@ TODO
 ====
 1. Add example for MARC::Validator::Plugin::Field264 plugin.
 2. README.
-3. Use version from Changes file in marc-merge.pl
 4.
 
 Applied
 =======
+3. Use version from Changes file in marc-merge.pl
+OK [20261022] skim

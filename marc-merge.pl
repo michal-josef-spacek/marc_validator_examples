@@ -3,12 +3,14 @@
 use strict;
 use warnings;
 
+use CPAN::Changes;
 use English;
 use Error::Pure qw(err);
 use File::Find::Rule;
 use MARC::File::XML (BinaryEncoding => 'utf8', RecordFormat => 'MARC21');
 
-our $VERSION = 0.08;
+my $changes = CPAN::Changes->load('Changes');
+my $changes_version = ($changes->releases)[-1]->version;
 
 my @xml_files = File::Find::Rule->file->in('examples');
 
@@ -37,7 +39,7 @@ foreach my $xml_file (@xml_files) {
 }
 
 # Compose to output.
-my $marc_output = MARC::File::XML->out('marc-validator-examples-'.$VERSION.'.xml');
+my $marc_output = MARC::File::XML->out('marc-validator-examples-'.$changes_version.'.xml');
 foreach my $field_001 (sort keys %{$sorted_marc_hr}) {
 	$marc_output->write($sorted_marc_hr->{$field_001});
 }
