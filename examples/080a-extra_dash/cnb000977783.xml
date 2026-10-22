@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+  xmlns="http://www.loc.gov/MARC21/slim">
+
+<record>
+  <leader>03927nas a2200829 i 4500</leader>
+  <controlfield tag="001">nkc20050977783</controlfield>
+  <controlfield tag="003">CZ PrNK</controlfield>
+  <controlfield tag="005">20260413104403.0</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">001027c19959999xr ar    ss   0   b0cze  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">cnb000977783</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)85014324</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="d">OLA001</subfield>
+    <subfield code="d">BOA001</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">e-xr---</subfield>
+  </datafield>
+  <datafield tag="072" ind1=" " ind2="7">
+    <subfield code="a">37.09</subfield>
+    <subfield code="x">Organizace výuky a vzdělávání</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">22</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">373/378-</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">37.091.2</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(437.3)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(083.41)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">(058)</subfield>
+    <subfield code="2">MRF</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Školy a školská zařízení ČR ve školním roce ... /</subfield>
+    <subfield code="c">zpracoval odbor statistiky zaměstnanosti a mezd, vědy a netržních služeb</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Školy a školská zařízení ve školním roce ...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Praha :</subfield>
+    <subfield code="b">Český statistický úřad,</subfield>
+    <subfield code="c">[1995]-</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">^^^svazků :</subfield>
+    <subfield code="b">barevné ilustrace, mapy ;</subfield>
+    <subfield code="c">30 cm</subfield>
+  </datafield>
+  <datafield tag="310" ind1=" " ind2=" ">
+    <subfield code="a">1x ročně</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">bez média</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">svazek</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="362" ind1="0" ind2=" ">
+    <subfield code="a">1994/1995-</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Práce, sociální statistiky. Školství, kultura, zdravotnictví</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Lidé a společnost</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Součástí nevýznamně měnícího se názvu je označení školního roku</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Zpracovatelé se mění</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Některé svazky mají ISBN</subfield>
+  </datafield>
+  <datafield tag="515" ind1=" " ind2=" ">
+    <subfield code="a">V letech 2005/2006 až 2008/2009 nevydáváno</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">školy</subfield>
+    <subfield code="7">ph116830</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="a">výchovně-vzdělávací zařízení</subfield>
+    <subfield code="7">ph127431</subfield>
+    <subfield code="z">Česko</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">schools</subfield>
+    <subfield code="z">Czechia</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="9">
+    <subfield code="a">educational arrangements</subfield>
+    <subfield code="z">Czechia</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">statistiky</subfield>
+    <subfield code="7">fd133589</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">ročenky</subfield>
+    <subfield code="7">fd133307</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">statistics</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="9">
+    <subfield code="a">yearbooks</subfield>
+    <subfield code="2">eczenas</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Český statistický úřad</subfield>
+    <subfield code="7">ko2002105674</subfield>
+    <subfield code="4">pbl</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Český statistický úřad.</subfield>
+    <subfield code="b">Odbor statistiky zaměstnanosti a mezd, vědy a netržních služeb</subfield>
+    <subfield code="7">kn20020515001</subfield>
+    <subfield code="4">aut</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Práce, sociální statistiky.</subfield>
+    <subfield code="p">Školství, kultura, zdravotnictví</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Lidé a společnost</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+    <subfield code="u">https://ndk.cz/uuid/uuid:55f9dbf3-1bb3-11f1-a433-ce1e19c8badb</subfield>
+    <subfield code="y">Digitalizovaný dokument</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0756-1</subfield>
+    <subfield code="q">(1994/1995, 1. díl ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0757-X</subfield>
+    <subfield code="q">(1994/1995, 2. díl ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0754-5</subfield>
+    <subfield code="q">(1996/1997, 1. díl ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0755-3</subfield>
+    <subfield code="q">(1996/1997, 2. díl ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0752-9</subfield>
+    <subfield code="q">(1997/1998, 1. díl ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0753-7</subfield>
+    <subfield code="q">(1997/1998, 2. díl ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0750-2</subfield>
+    <subfield code="q">(1998/1999, 1. díl ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0751-0</subfield>
+    <subfield code="q">(1998/1999, 2. díl ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-7223-273-8</subfield>
+    <subfield code="q">(1999/2000 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-7223-464-1</subfield>
+    <subfield code="q">(2000/2001 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-7223-711-X</subfield>
+    <subfield code="q">(2001/2002 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0046-X</subfield>
+    <subfield code="q">(2002/2003 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-0846-0</subfield>
+    <subfield code="q">(2003/2004 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+    <subfield code="z">80-250-0046-X</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">80-250-1130-5</subfield>
+    <subfield code="q">(2004/2005 ;</subfield>
+    <subfield code="q">v knize neuvedeno ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+    <subfield code="z">80-250-0046-X</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-250-2780-6</subfield>
+    <subfield code="q">(2016/2017 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-250-2951-0</subfield>
+    <subfield code="q">(2018/2019 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-250-3063-9</subfield>
+    <subfield code="q">(2019/2020 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-250-3175-9</subfield>
+    <subfield code="q">(2020/2021 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-250-3276-3</subfield>
+    <subfield code="q">(2021/2022 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-250-3422-4</subfield>
+    <subfield code="q">(2022/2023 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-250-3539-9</subfield>
+    <subfield code="q">(2023/2024 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="a">978-80-250-3654-9</subfield>
+    <subfield code="q">(2024/2025 ;</subfield>
+    <subfield code="q">brožováno)</subfield>
+  </datafield>
+  <datafield tag="910" ind1=" " ind2=" ">
+    <subfield code="a">ABA001</subfield>
+    <subfield code="s">1994/1995-2004/2005, 2016/2017-2024/2025-</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">000977783</subfield>
+  </datafield>
+</record>
+
+</collection>
